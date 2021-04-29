@@ -9,18 +9,23 @@ import java.io.*;
  * @version: 1.0
  */
 public class Test03 {
-    //1.先准备输入方向
-    //键盘录入：
-    InputStream in = System.in;//属于字节流
-    //字节流--》字符流：
-    InputStreamReader isr = new InputStreamReader(in);
-    //在isr外面再套一个缓冲流
-    BufferedReader  br = new BufferedReader(isr);
+    public static void main(String[] args) {
+        //1.先准备输入方向
+        //键盘录入：
+        InputStream in = System.in;//属于字节流
+        //字节流--》字符流：
+        InputStreamReader isr = new InputStreamReader(in);
+        //在isr外面再套一个缓冲流
+        BufferedReader  br = new BufferedReader(isr);
 
-    //2.再准备输出方向
-    //键盘输出
-    PrintStream out = System.out;
-    //字符流--》字节流
+        //2.再准备输出方向
+        //键盘输出
+        PrintStream out = System.out;
+        //字符流--》字节流
+        File f = new File("D:\\FUTURE\\Java\\IDEA_workspace\\TestJavaSE\\TestIO\\src\\com\\chs\\IO04\\Test2.txt");
+
+
+    }
 
 
 }
