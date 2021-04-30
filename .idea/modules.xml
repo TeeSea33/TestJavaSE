@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/TestOOPProject/TestOOPProject.iml" filepath="$PROJECT_DIR$/TestOOPProject/TestOOPProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOPProject2/TestOOPProject2.iml" filepath="$PROJECT_DIR$/TestOOPProject2/TestOOPProject2.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestSnakeGame/TestSnakeGame.iml" filepath="$PROJECT_DIR$/TestSnakeGame/TestSnakeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestThread/TestThread.iml" filepath="$PROJECT_DIR$/TestThread/TestThread.iml" />
     </modules>
   </component>
 </project>
