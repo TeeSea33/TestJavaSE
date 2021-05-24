@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" filepath="$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCharge/TestCharge.iml" filepath="$PROJECT_DIR$/TestCharge/TestCharge.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCollection/TestCollection.iml" filepath="$PROJECT_DIR$/TestCollection/TestCollection.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCommonClass/TestCommonClass.iml" filepath="$PROJECT_DIR$/TestCommonClass/TestCommonClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestEnum/TestEnum.iml" filepath="$PROJECT_DIR$/TestEnum/TestEnum.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestException/TestException.iml" filepath="$PROJECT_DIR$/TestException/TestException.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestIO/TestIO.iml" filepath="$PROJECT_DIR$/TestIO/TestIO.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestJavaSE.iml" filepath="$PROJECT_DIR$/TestJavaSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestJunit/TestJunit.iml" filepath="$PROJECT_DIR$/TestJunit/TestJunit.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestLottery/TestLottery.iml" filepath="$PROJECT_DIR$/TestLottery/TestLottery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestNetWork/TestNetWork.iml" filepath="$PROJECT_DIR$/TestNetWork/TestNetWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOP/TestOOP.iml" filepath="$PROJECT_DIR$/TestOOP/TestOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOP2/TestOOP2.iml" filepath="$PROJECT_DIR$/TestOOP2/TestOOP2.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOP3/TestOOP3.iml" filepath="$PROJECT_DIR$/TestOOP3/TestOOP3.iml" />

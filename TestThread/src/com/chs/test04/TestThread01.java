@@ -39,7 +39,5 @@ class Test{
         TestThread02 tt2 = new TestThread02();
         tt2.setPriority(1);//优先级低
         tt2.start();
-
-
     }
 }

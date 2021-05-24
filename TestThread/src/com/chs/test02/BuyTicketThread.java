@@ -11,10 +11,19 @@ public class BuyTicketThread implements Runnable{
     @Override
     public void run() {
         for (int i = 0; i <= 10; i++) {
-            if(tickNum>0){
-                System.out.println("我在"+Thread.currentThread().getName()+"买到了北京到哈尔滨的第"+tickNum--+"张车票");
-            }
-
+            buyTicket();
         }
     }
+
+
+    public synchronized void buyTicket(){//锁住的方法就是锁住了方法这个对象this
+        if(tickNum>0){
+            System.out.println("我在"+Thread.currentThread().getName()+"买到了北京到哈尔滨的第"+tickNum--+"张车票");
+        }
+    }
+
+
+
+
+
 }
