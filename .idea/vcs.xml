@@ -3,7 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.idea/artifacts" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/TestSnakeGame" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TestSnakeGame/src" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/out/artifacts/TestSnakeGame_jar2" vcs="Git" />
   </component>
