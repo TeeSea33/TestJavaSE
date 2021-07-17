@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tank/Tank.iml" filepath="$PROJECT_DIR$/Tank/Tank.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" filepath="$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCharge/TestCharge.iml" filepath="$PROJECT_DIR$/TestCharge/TestCharge.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestCollection/TestCollection.iml" filepath="$PROJECT_DIR$/TestCollection/TestCollection.iml" />
@@ -19,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/TestOOP4/TestOOP4.iml" filepath="$PROJECT_DIR$/TestOOP4/TestOOP4.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOPProject/TestOOPProject.iml" filepath="$PROJECT_DIR$/TestOOPProject/TestOOPProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestOOPProject2/TestOOPProject2.iml" filepath="$PROJECT_DIR$/TestOOPProject2/TestOOPProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestReflect/TestReflect.iml" filepath="$PROJECT_DIR$/TestReflect/TestReflect.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestSnakeGame/TestSnakeGame.iml" filepath="$PROJECT_DIR$/TestSnakeGame/TestSnakeGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestThread/TestThread.iml" filepath="$PROJECT_DIR$/TestThread/TestThread.iml" />
     </modules>
